@@ -1,0 +1,30 @@
+{
+    "Surgery": [
+      {
+        "Category": "Abdominal",
+        "Surgery": [
+          {
+            "Number": "08100",
+            "Name": "Splenectomy (Total)"
+          },
+          {
+            "Number": "08120",
+            "Name": "Laparoscopy"
+          }
+        ]
+      },
+      {
+        "Category": "Cardiac/Chest",
+        "Surgery": [
+          {
+            "Number": "20101",
+            "Name": "Exploration of penetrating wound"
+          },
+          {
+            "Number": "21620",
+            "Name": "Ostectomy of sternum, partial"
+          }
+        ]
+      }
+    ]
+  }
